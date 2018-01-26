@@ -16,6 +16,8 @@
     "serve-favicon": "~2.4.5"
   },
   "devDependencies": {
+    "excel4node": "^1.3.4",
+    "fast-csv": "^2.4.1",
     "google-auth-library": "^1.1.0",
     "googleapis": "^25.0.0",
     "materialize-css": "^0.100.2"

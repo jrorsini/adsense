@@ -9,9 +9,10 @@ a {
 
 
 th {
-  text-align: left;
+  text-align: center;
 }
 
 td {
+  text-align: right;
   border: 1px solid grey;
 }
